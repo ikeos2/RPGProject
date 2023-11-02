@@ -3,7 +3,7 @@ This is the first post on my attempt at building an online role playing game!
 
 So far all here's a quick demo of what I've got;
 
-![[FirstGif.gif]]
+![](https://github.com/ikeos2/RPGProject/blob/main/Images/FirstGif.gif)
 
 Breaking this down - we have a lot going on! 
 
