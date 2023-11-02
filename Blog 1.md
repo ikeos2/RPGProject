@@ -13,7 +13,7 @@ Being a fairly common problem with Unity, they released a package called "Cinema
 
 The current problem I face is user camera drag. Here's an example of the type of movement I'm looking for:
 
-![[WoWCamera.gif]]
+![](https://github.com/ikeos2/RPGProject/blob/main/Images/WoWCamera.gif)
 
 Spoiler: you're going to see a lot of WoW screenshots because that's the gold standard for MMORPG's. 
 
