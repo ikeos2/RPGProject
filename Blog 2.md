@@ -1,5 +1,7 @@
 # Death works!
 
+![](https://github.com/ikeos2/RPGProject/blob/main/Images/DeathWorks.gif)
+
 Since last time, I was having trouble getting my death animation to play. After some finagling and waggling, I figured out the animation fade in time was set to 100%, resulting in no animation occurring. To remedy this, I moved it the other, now there's no transition between previous animation and the death animation, so character should just drop.
 # Stats
 
